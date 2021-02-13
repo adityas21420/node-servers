@@ -1,0 +1,30 @@
+{
+  "name": "excel-display",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "file-extension": "^4.0.5",
+    "multer": "^1.4.2",
+    "xls-to-json": "^2.1.0",
+    "xlsx-to-json": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityas21420/react-components.git"
+  },
+  "author": "Aditya Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityas21420/react-components/issues"
+  },
+  "homepage": "https://github.com/adityas21420/react-components#readme"
+}
